@@ -6,7 +6,7 @@ namespace MHSEC_G
 {
     internal class Model
     {
-        public const uint SAVE_FILE_SIZE = 483976;
+        public const uint SAVE_FILE_SIZE = 553736;
 
         private readonly byte[] _save_file;
 
